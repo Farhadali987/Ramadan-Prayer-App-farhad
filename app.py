@@ -7,7 +7,7 @@ st.set_page_config(page_title="Ramadan Tracker 2025", page_icon="🌙", layout="
 st.markdown(
     """
     <h1 style='text-align: center; color: #FFD700;'>🌙 Ramadan Tracker 2025 🌙</h1>
-    <h3 style='text-align: center; color: #FFFFFF;'>Get Sehri & Iftar timings for Karachi</h3>
+    <h3 style='text-align: center; color: #FFD700;;'>Get Sehri & Iftar timings for Karachi</h3>
     """,
     unsafe_allow_html=True,
 )
