@@ -1,8 +1,5 @@
 import streamlit as st
 import datetime
-from streamlit_lottie import st_lottie
-import requests
-
 # Page configuration
 st.set_page_config(page_title="Ramadan Tracker 2025", page_icon="🌙", layout="wide")
 
